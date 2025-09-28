@@ -1,0 +1,8 @@
+{
+  "rewrites": [
+    {
+      "source": "/api/:match*",
+      "destination": "https://ku-gou-music-api-gamma-topaz.vercel.app/:match*"
+    }
+  ]
+}
